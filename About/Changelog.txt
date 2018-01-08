@@ -1,0 +1,21 @@
+personal changelog for mod "sd_conduitwall"
+
+- 21/12/2016
+	
+	- updated to a16
+	- split xmls to base and building one
+
+- 06/01/2017
+
+	- fixed the xml worktobuild, had old one there,w hich resulted in instant build
+
+- 03/06/2017
+
+	- update to a17
+	- added sellprice mod to building abstract
+	- added overlap zones to false to wall
+
+- 28/12/2017
+
+	- update to b18
+	- removed ignoreneedspower
