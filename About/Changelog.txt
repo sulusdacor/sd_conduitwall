@@ -19,3 +19,7 @@ personal changelog for mod "sd_conduitwall"
 
 	- update to b18
 	- removed ignoreneedspower
+
+- 14/01/2018
+
+	- added modsync file
