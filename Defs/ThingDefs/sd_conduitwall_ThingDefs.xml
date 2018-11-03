@@ -28,9 +28,6 @@
         <edgeRight>Damage/Edge</edgeRight>
       </damageData>
     </graphicData>
-    <blueprintGraphicData>
-      <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
-    </blueprintGraphicData>
     <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
     <statBases>
       <MaxHitPoints>350</MaxHitPoints>
@@ -71,6 +68,10 @@
     </stuffCategories>
     <building>
       <isInert>true</isInert>
+	  <ai_chillDestination>false</ai_chillDestination>
+		<blueprintGraphicData>
+			<texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+		</blueprintGraphicData>
     </building>
     <damageMultipliers>
       <li>

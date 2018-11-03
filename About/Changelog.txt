@@ -23,3 +23,11 @@ personal changelog for mod "sd_conduitwall"
 - 14/01/2018
 
 	- added modsync file
+
+- 27/10/2018
+
+	- rimworld 1.0 update
+
+- 03/11/2018
+
+	- rest of the 1.0 update
